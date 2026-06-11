@@ -1,7 +1,7 @@
 # Movie-Rating-Prediction
 Movie Rating Prediction using Machine Learning and Streamlit. Predict IMDb movie ratings based on genre, director, year, duration, and votes using a Random Forest Regression model.
 # 🎬 Movie Rating Prediction System
-
+live url: https://movie-rating-prediction-ee98odwhztugcjerenvbsy.streamlit.app/
 ## 📌 Overview
 
 This project was developed as part of the **CodSoft Data Science Internship (Task 2)**.
